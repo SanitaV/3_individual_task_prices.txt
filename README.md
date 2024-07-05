@@ -9,3 +9,5 @@ In this level, you will read the data from prices.txt (see additional files),  c
 
 **Medium Level**
 In this level, we will extend the program to skip rows that contain anything other than a number in the code. (Modify your program in such a way that all rows that contain something else than a number, are skipped.)
+
+(https://github.com/SanitaV/3_individual_task_prices.txt.git)
